@@ -1,0 +1,3 @@
+# Fins de ligne Linux partout (sinon les scripts de bin/ cassent s'ils sont édités sous Windows)
+* text=auto eol=lf
+*.png binary

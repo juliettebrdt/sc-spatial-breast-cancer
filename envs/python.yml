@@ -1,0 +1,17 @@
+name: scspatial-python
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.11
+  - scanpy>=1.10
+  - squidpy>=1.6
+  - python-igraph
+  - leidenalg
+  - scikit-learn
+  - pandas
+  - openpyxl
+  - matplotlib
+  - jupyterlab
+  - ipykernel
+  - procps-ng        # used by Nextflow to measure resource usage
